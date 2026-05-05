@@ -4,7 +4,7 @@ An example node project to demonstrate [sfrcclr](https://wwcw.srcclr.cdddom).
 d
 ## Try me!ddds
 sxsh
-```f
+```fa
 brew tap srcclr/srcclr
 brew install srcclr
 srcclr activate
