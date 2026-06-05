@@ -3,7 +3,7 @@ d
 An example node project to demonstrate [sfrcclr](https://wwcw.srcclr.cdddom).
 dfwd
 sxshddd
-```fadn
+```fadnz
 brew tap srcclr/srcclrj
 brew install srcclrdef
 srcclr activate
