@@ -5,7 +5,7 @@ d
 ## Try me!dddsd
 s
 ```fad
-brew tap srcclr/srcclr
+brew tap srcclr/srcclrxd
 brew install srcclrdef
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
